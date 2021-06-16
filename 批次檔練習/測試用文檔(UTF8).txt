@@ -1,0 +1,15 @@
+#win10  #cursor
+
+問題
+使用 cmd ，輸入字元時，游標消失，看不到目前輸入位置
+
+解決方法
+在輸入命令之前，先切換到英文輸入法，游標就不會消失
+
+
+Question
+The cursor will disappear while typing command in cmd in windows 10.
+
+Solution
+Switch to English input method before typing the command. 
+So that the cursor won't be disappear.
