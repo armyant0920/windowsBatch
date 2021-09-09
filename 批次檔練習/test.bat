@@ -1,1 +1,3 @@
-start D:\Kevin\°Ñ¦Ò\20200331TABLE_LAYOUT.pdf
+@echo off
+echo > c:\tcdtools\begin.ok
+pause
