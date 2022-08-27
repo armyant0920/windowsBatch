@@ -1,0 +1,15 @@
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.csproj.AssemblyReference.cache
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.AssemblyInfoInputs.cache
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.AssemblyInfo.cs
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.csproj.CoreCompileInputs.cache
+D:\visualcode\TaskTest\bin\Debug\net6.0\TaskTest.exe
+D:\visualcode\TaskTest\bin\Debug\net6.0\TaskTest.deps.json
+D:\visualcode\TaskTest\bin\Debug\net6.0\TaskTest.runtimeconfig.json
+D:\visualcode\TaskTest\bin\Debug\net6.0\TaskTest.dll
+D:\visualcode\TaskTest\bin\Debug\net6.0\TaskTest.pdb
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.dll
+D:\visualcode\TaskTest\obj\Debug\net6.0\refint\TaskTest.dll
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.pdb
+D:\visualcode\TaskTest\obj\Debug\net6.0\TaskTest.genruntimeconfig.cache
+D:\visualcode\TaskTest\obj\Debug\net6.0\ref\TaskTest.dll
